@@ -15,3 +15,6 @@
 4. 打开练习index.html，文件中有关于每一个练习的描述和要求
 5. 根据要求完成练习，然后与mockups文件夹下的mockup图片对比，看是否一致
 6. 每完成一个小练习，完成一次git commit，保证小步提交
+
+# WARNING
+该代码库版权归ThoughtWorks所有
