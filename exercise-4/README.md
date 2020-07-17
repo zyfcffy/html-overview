@@ -1,3 +1,6 @@
+### 作业说明
+请将本目录下的none-semantic.html 内容改写成semantic html, 改写在index.html中。
+
 ### SEMANTIC HTML
 
 - Semantic HTML introduces meaning to a page through specific elements that provide context as to what is in between the tags.
