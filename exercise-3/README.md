@@ -5,7 +5,7 @@ to complete this lesson of HTML Form, You need to know the key points:
 - The purpose of a `<form>`  is to allow users to input information and send it.
 - The `<form>` 's `action` attribute determines where the form’s information goes.
 - The `<form>` 's `method` attribute determines how the information is sent and processed.
-- To add fields for users to input information we use the`<imput>`element and set the `type` attribute to a field of our choosing:
+- To add fields for users to input information we use the`<input>`element and set the `type` attribute to a field of our choosing:
   - Setting `type` to `"text"` creates a single row field for text input.
   - Setting `type` to `"password"` creates a single row field that censors text input.
   - Setting `type` to `"number"` creates a single row field for number input.

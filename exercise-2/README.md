@@ -2,7 +2,7 @@
 
 to complete this lesson, You need to know the key points: 
 
-- The `<tbale>` element creates a table.
+- The `<table>` element creates a table.
 - The `<tr>` element adds rows to a table.
 - To add data to a row, you can use the `<td>` element.
 - Table headings clarify the meaning of data. Headings are added with the `<th>` element.
